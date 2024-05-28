@@ -1,6 +1,6 @@
 # Benchmark
 
-##  Solvers_Bechmarking:
+##  Solvers_Benchmarking:
 ####  Contains the code for QAOA, Dwave, QBSolve, Tabu search, and Simulated Annealing
 
  - QAOA.py contains the code for running QAOA on Quantum IBM hardware
