@@ -14,4 +14,4 @@ This repository contains the code to generate the results of the paper https://a
    - Coalition_Formation.ipynb contains the code for optimizations related to the Equations (1),(2),(3) of the paper, calculating value functions for all colaitions, and mapping the CFG to ISG
 
 ## Data
-   - Contains data_forfig2.pkl and data_forfig3.pkl contains problem instances used for Fig2 and 3
+   - Contains data_forfig2.pkl and data_forfig3.pkl which are the problem instances used for Fig2 and 3
