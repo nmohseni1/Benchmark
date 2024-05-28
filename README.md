@@ -1,5 +1,8 @@
-# Benchmark
 
+
+
+# Benchmark
+This repository contains the code to generate the results of the paper https://arxiv.org/abs/2405.11917.
 ##  Solvers_Benchmarking:
 ####  Contains the code for QAOA, Dwave, QBSolve, Tabu search, and Simulated Annealing
 
