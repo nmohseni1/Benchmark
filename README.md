@@ -8,4 +8,4 @@
  - data_forfig2.pkl and data_forfig3.pkl contains problem instances used for Fig2 and 3
 
 ##  Problem_Formulation:
-   - Contains the code for optimizations of Eq(1),(2),(3), calculating value functions for all colaitions and mapping the CFG to ISG
+   - Contains the code for optimizations related to the Equations (1),(2),(3) of the paper, calculating value functions for all colaitions, and mapping the CFG to ISG
