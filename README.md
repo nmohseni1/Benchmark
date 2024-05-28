@@ -1,6 +1,7 @@
 # Benchmark
 
-##  Solvers_Bechmarking: contains the code for QAOA, Dwave, QBSolve, Tabu search, and Simulated Annealing
+##  Solvers_Bechmarking:
+### contains the code for QAOA, Dwave, QBSolve, Tabu search, and Simulated Annealing
 
 ### - QAOA.py contains the code for running QAOA on Quantum IBM hardware
 ### - Solver.py and utils.py main.ipynb implement SA, Tabu Search, and QBsolve and generate plots of for Fig2 and Fig3
